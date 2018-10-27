@@ -1,0 +1,1 @@
+# kubernetes_Django_redis_postgres_rds_celery
